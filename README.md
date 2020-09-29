@@ -30,51 +30,57 @@ for each of the stocks picked, either real time data or historical data can be p
 At Present the Tool enables to load the data upto the last hour. The next version of the tool will incorporate streaming data as against loading available data sets using APIs which usually has a lag.  <br>
 
 <table>
-	<tr>
-		<td> 
+<tr>
+<td> 
 
 ![Initializer](/Resources/images/initializer.PNG) 
 
-		</td> 
-		<td> 
+</td> 
+<td> 
+
 ![Load Datafiles](/Resources/images/load_local_files.PNG)  
 
-		</td> 
-	</tr>
-	<tr>
-		<td>
+</td> 
+</tr>
+<tr>
+<td>
 
 ![load API Data](/Resources/images/load_api_data.PNG)  
 
-		</td> 
-		<td>
+</td> 
+<td>
 
 ![load Database](/Resources/images/load_database.PNG)   
 
-		</td> 
-	</tr>
-	<tr>
-		<td>
+</td> 
+</tr>
+<tr>
+<td>
 
 ![Sector Analysis](/Resources/images/sector_analysis.PNG)   
 
-		</td> 
-		<td>	
+</td> 
+<td>	
 
 ![side by Side stock analysis](/Resources/images/side_by_side.PNG)  
 
-		</td> 
-	</tr>
-	<tr>
-		<td>
+</td> 
+</tr>
+<tr>
+<td>
 
 ![configure BackTest](/Resources/images/configure_backtest.PNG)   
 
-		</td> 
-		<td> 
+</td> 
+<td> 
 
 ![create custom visualizations](/Resources/images/dynamic_plot_gen.PNG) 
 
-		</td> 
-	</tr>
+</td> 
+</tr>
+<tr>
+
+![BackTesting](smacross.html)
+
+</tr>
 </table>
