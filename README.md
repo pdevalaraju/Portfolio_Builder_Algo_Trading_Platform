@@ -101,7 +101,9 @@ At Present the Tool enables to load the data upto the last hour. The next versio
 <tr>
 <td>
 
-<iframe src="https://github.com/pdevalaraju/Portfolio_Builder_Algo_Trading_Platform/blob/master/SmaCross.html"></iframe>
+<iframe src="SmaCross.html">
+
+</iframe>
 
 </td>
 <td>
