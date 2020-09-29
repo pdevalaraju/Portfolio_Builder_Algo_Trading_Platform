@@ -98,7 +98,7 @@ At Present the Tool enables to load the data upto the last hour. The next versio
 </tr>
 <tr><td>
 
-![BackTesting](https://github.com/pdevalaraju/Portfolio_Builder_Algo_Trading_Platform/blob/master/smacross.html)
+!https://github.com/pdevalaraju/Portfolio_Builder_Algo_Trading_Platform/blob/master/smacross.html)
 </td>
 </tr>
 </table>
