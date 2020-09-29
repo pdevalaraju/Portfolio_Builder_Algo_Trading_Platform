@@ -62,25 +62,43 @@ At Present the Tool enables to load the data upto the last hour. The next versio
 </td> 
 <td>	
 
+![1 Year Top Sectors](/Resources/images/01Year_Sectors.png)
+</td> 
+<td>
+</tr>
+<tr>
+<td>
+
+![6 Months top Stocks](/Resources/images/6Month_TopStocks.png)
+</td> 
+<td>
+
+![1 year Top Stocks](/Resources/images/1Year_TopStocks.png)
+</td> 
+
+</tr>
+<tr>
+<td>
+
 ![side by Side stock analysis](/Resources/images/side_by_side.PNG)  
+
+</td> 
+<td>
+
+![configure BackTest](/Resources/images/configure_backtest.PNG)   
 
 </td> 
 </tr>
 <tr>
 <td>
 
-![configure BackTest](/Resources/images/configure_backtest.PNG)   
-
-</td> 
-<td> 
-
 ![create custom visualizations](/Resources/images/dynamic_plot_gen.PNG) 
 
 </td> 
 </tr>
-<tr>
+<tr><td>
 
-![BackTesting](smacross.html)
-
+![BackTesting](smacross.htm)
+</td>
 </tr>
 </table>
