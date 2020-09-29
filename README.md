@@ -101,10 +101,11 @@ At Present the Tool enables to load the data upto the last hour. The next versio
 <tr>
 <td>
 
-<iframe
+<iframe 
   src="SmaCross.html"
   style="width:100%; height:100%;"
-></iframe>
+>
+</iframe>
 
 </td>
 <td>
