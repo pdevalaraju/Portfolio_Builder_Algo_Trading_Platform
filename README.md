@@ -91,14 +91,23 @@ At Present the Tool enables to load the data upto the last hour. The next versio
 </tr>
 <tr>
 
+<td>
 
 ![create custom visualizations](/Resources/images/dynamic_plot_gen.PNG) 
-
-
+</td> 
+<td>
+</td>
 </tr>
 <tr>
+<td>
 
-![a relative link](smacross.html)
+<iframe
+  src="SmaCross.html"
+  style="width:100%; height:100%;"
+></iframe>
 
+</td>
+<td>
+</td>
 </tr>
 </table>
