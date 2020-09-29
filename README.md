@@ -90,15 +90,15 @@ At Present the Tool enables to load the data upto the last hour. The next versio
 </td> 
 </tr>
 <tr>
-<td>
+
 
 ![create custom visualizations](/Resources/images/dynamic_plot_gen.PNG) 
 
-</td> 
-</tr>
-<tr><td>
 
-!https://github.com/pdevalaraju/Portfolio_Builder_Algo_Trading_Platform/blob/master/smacross.html)
-</td>
+</tr>
+<tr>
+
+![a relative link](smacross.html)
+
 </tr>
 </table>
